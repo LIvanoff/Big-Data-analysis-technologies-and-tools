@@ -10,3 +10,6 @@
 3. Статистика на Python -
     [colab](https://colab.research.google.com/github/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr3.ipynb)
    [github](https://github.com/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr3.ipynb) 
+4. Корреляция, линейная регрессия и дисперсионный анализ -
+    [colab](https://colab.research.google.com/gist/LIvanoff/71aec28c2296523aeb4e301e6ecdc97b/pr4.ipynb)
+   [github](https://github.com/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr4.ipynb) 
