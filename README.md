@@ -14,8 +14,10 @@
     [colab](https://colab.research.google.com/gist/LIvanoff/501bf49a8ab08b7e1e21c57ee06c0dcb/pr4.ipynb)
    [github](https://github.com/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr4.ipynb)
 
-4. Классификация -
+5. Классификация -
     [colab](https://colab.research.google.com/gist/LIvanoff/1ba10e4ff3e83fb2c986432b334a064e/pr5.ipynb)
    [github](https://github.com/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr5.ipynb)
-   
-   
+
+6. Кластеризация -
+    [colab](https://colab.research.google.com/gist/LIvanoff/af46af81ff5c5c569c12829e199e49e8/pr6.ipynb)
+   [github](https://github.com/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr6.ipynb)   
