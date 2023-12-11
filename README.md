@@ -20,4 +20,8 @@
 
 6. Кластеризация -
     [colab](https://colab.research.google.com/gist/LIvanoff/af46af81ff5c5c569c12829e199e49e8/pr6.ipynb)
-   [github](https://github.com/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr6.ipynb)   
+   [github](https://github.com/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr6.ipynb)
+
+7. Ансамблевое обучение -
+    [colab](https://colab.research.google.com/gist/LIvanoff/bc1e13349b30f6cc13738774e2701144/pr7.ipynb)
+   [github](https://github.com/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr7.ipynb) 
