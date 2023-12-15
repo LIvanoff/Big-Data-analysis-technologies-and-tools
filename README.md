@@ -24,4 +24,8 @@
 
 7. Ансамблевое обучение -
     [colab](https://colab.research.google.com/gist/LIvanoff/bc1e13349b30f6cc13738774e2701144/pr7.ipynb)
-   [github](https://github.com/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr7.ipynb) 
+   [github](https://github.com/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr7.ipynb)
+   
+8. Ассоциативные правила -
+    [colab](https://colab.research.google.com/gist/LIvanoff/4b1512ba78c4a86584d5cf095fa061b7/pr8.ipynb)
+   [github](https://github.com/LIvanoff/Big-Data-analysis-technologies-and-tools/blob/main/pr8.ipynb)
